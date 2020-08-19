@@ -1,4 +1,4 @@
-package org.github.wreinn.SteamCurrentPlayers;
+package com.github.wreinn.SteamCurrentPlayers;
 
 import org.apache.commons.io.IOUtils;
 import org.json.JSONObject;

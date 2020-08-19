@@ -1,4 +1,4 @@
-package org.github.wreinn.SteamCurrentPlayers;
+package com.github.wreinn.SteamCurrentPlayers;
 
 import java.io.*;
 import java.util.*;
